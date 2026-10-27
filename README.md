@@ -1,1 +1,3 @@
-# crypto-bot
+request
+pandas
+ta
